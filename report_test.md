@@ -193,7 +193,7 @@ The data blueprint could help us to establish the framework and specify the data
 
 # Acknowledgement
 
-We would like to thank Professor Gregor von Laszweski for all his support in this project. We would also like to  the TAs for their extended support and guidance thoughout.
+We would like to thank Professor Gregor von Laszweski for all his support in this project. We would also like to thank the TAs for their support to help me finish this project.
 
 
 
