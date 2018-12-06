@@ -102,12 +102,12 @@ There are two things need to be done in this step. It is recommended to use the 
 #### Null test   
 The missing value is a common problem of the data analysis, and there are a lot of ways to deal with this problem. We often do this job in four steps. Locate the range of the missing values. In order to distinguish different variables with different importance, we calculate the missing percentage of each part of the dataset. According to the result of the calculation, we use different strategies to deal with those missing values.   
 
-![fa18-523-85-01-null-test.png](images/fa18-523-85-01-null-test.png){#fig:fa18-523-85-01-null-test.png}  
-# fig2   
+![fa18-523-85-01-null-test](images/fa18-523-85-01-null-test.png){#fig:fa18-523-85-01-null-test}  
+![fa18-523-85-02-null-show](images/fa18-523-85-02-null-show.png){#fig:fa18-523-85-02-null-show}   
 
 To the part with high importance and low missing rate, we give some values to the missing part by calculating. In some cases, we also use our experience to make up the missing part. To the part with high importance and high missing rate, we will try to fix the problem by finding other data sources. In some troublesome cases, we even delete the whole part of the dataset and claim the action in the result. To the part with low importance and low missing rate, we can care other things or estimate the missing value by some simple calculations. To the part of low importance and high missing rate, we choose to delete the whole part since it can not have a significant impact on the result of the analysis.   
 
-# fig3   
+![fa18-523-85-03-null-fix](images/fa18-523-85-03-null-fix.png){#fig:fa18-523-85-03-null-fix}   
 
 #### Delete unreasonable value   
 It is very common to find some strange value in the dataset. Such as a very big age more than 200. These extreme values will have a negative impact on the result since the features of the dataset will be partly represented by some extreme values.   
@@ -115,17 +115,17 @@ It is very common to find some strange value in the dataset. Such as a very big 
 
 ### Data Exploration and Processing   
 
-# fig4   
+![fa18-523-85-04-gender](images/fa18-523-85-04-gender.png){#fig:fa18-523-85-04-gender}   
 
 In the gender analysis, we can easily find that there are more males than females. The males have contributed more than the female. The result is also linked by the products classes since females have some specific domains to focus on. And the males also have their own preferences.   
 
-# fig5   
+![fa18-523-85-05-gender-sales-box](images/fa18-523-85-05-gender-sales-box.png){#fig:fa18-523-85-05-gender-sales-box}   
 Generally speaking, females are easy to finish the act of purchase even the product is useless to them. Purchasing was an action to meet the need of living, now it has evolved as an action of entertainment. Most of the females have the tendency of purchasing, but they have different degrees about that. Comparing with males, females are less rational in the process. They are easy to be affected by others, which is also a proof of their lack of rationality. On the other hand, females are sensitive to the details of products. Standing by this point, it is hard to make profits on females. So if the designer is able to care more about the details of the products, the products will be more attractive to customers.   
 
-# fig6   
+![fa18-523-85-06-gender-sale-bar](images/fa18-523-85-06-gender-sale-bar.png){#fig:fa18-523-85-06-gender-sale-bar}   
 The males also have contributed more than the females, about three times to the sales of females. There are some reasons to explain this. Since females are easy to consume without lots of considerations they are often consuming on cheaper things such as thing for daily use.   
 
-# fig7   
+![fa18-523-85-07-age-gender](images/fa18-523-85-07-age-gender.png){#fig:fa18-523-85-07-age-gender}   
 
 According to the figure, it is obvious that the young people group, especially the young males group, are the main contributors to the sales. Most of them are single or married a few years ago. So they do not have a big burden as other age groups do. They cost of education, the payment of the house, the savings for retirement, these factors are less considered by them. “Men Buy, Women Shop.” is a rule that Verde Group found in the research of men and women’s behavior of consuming.   
 
