@@ -38,7 +38,7 @@ Large-scale graph and network analysis also play a key role in commercial data a
 > "The study of consumer analytics lies at the junction of Big Data and consumer behavior. Data provide behavioral insights about consumers; marketers translate those insights into market advantage. Analytics generally refers to tools that help find hidden patterns in data" [@erevelles2016big].
 
 
-Behavioral big data (BBD) refers to very large and rich multidimensional data sets on human and social behaviors, actions, and interactions, which have become available to companies, governments, and researchers. A growing number of researchers in social science and management fields acquire and analyze BBD for the purpose of extracting knowledge and scientific discoveries [@shmueli2017research]. Besides, the online retailers also want to figure out the profound meanings behind the consumer’s actions. So the behavioral big data comes across with the research area and industry area, which results in different research methods. We use the methods in the research area to analysis the dataset with specific models designed to the dataset from Kaggle.
+Behavioral big data (BBD) refers to very large and rich multidimensional data sets on human and social behaviors, actions, and interactions, which have become available to companies, governments, and researchers. A growing number of researchers in social science and management fields acquire and analyze BBD for the purpose of extracting knowledge and scientific discoveries [@shmueli2017research]. Besides, the online retailers also want to figure out the profound meanings behind the consumer's actions. So the behavioral big data comes across with the research area and industry area, which results in different research methods. We use the methods in the research area to analysis the dataset with specific models designed to the dataset from Kaggle.
    
 
 ### Necessity of Big Data
@@ -75,7 +75,7 @@ Data columns (total 12 columns): User_ID: 537577 non-null int64, Product_ID: 537
 ## Tools
 
 ### Python 3.7   
-Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms [@fa18-523-85-python].   
+Python is an easy to learn, powerful programming language. It has efficient high-level data structures and a simple but effective approach to object-oriented programming. Python's elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms [@fa18-523-85-python].   
 
 ### Numpy   
 NumPy, which stands for Numerical Python, is a library consisting of multidimensional array objects and a collection of routines for processing those arrays. Using NumPy, mathematical and logical operations on arrays can be performed. This is a tutorial explains the basics of NumPy such as its architecture and environment. It also discusses the various array functions, types of indexing, etc. An introduction to Matplotlib is also provided. All this is explained with the help of examples for better understanding [@fa18-523-85-numpy].   
@@ -87,7 +87,7 @@ Pandas is a Python package providing fast, flexible, and expressive data structu
 Matplotlib.pyplot is a collection of command style functions that make matplotlib work like MATLAB. Each pyplot function makes some change to a figure: e.g., creates a figure, creates a plotting area in a figure, plots some lines in a plotting area, decorates the plot with labels, etc. In matplotlib.pyplot various states are preserved across function calls, so that it keeps track of things like the current figure and plotting area, and the plotting functions are directed to the current axes (please note that "axes" here and in most places in the documentation refers to the axes part of a figure and not the strict mathematical term for more than one axis) [@fa18-523-85-pyplot].   
 
 ### Seaborn   
-Seaborn is a Python visualization library for statistical plotting. It comes equipped with preset styles and color palettes so you can create complex, aesthetically pleasing charts with a few lines of code. It’s designed to work with NumPy and pandas data structures and to support statistical tasks completed in SciPy and statsmodels. Seaborn is built on top of Python’s core visualization library matplotlib, but it’s meant to serve as a complement, not a replacement. In most cases, you’ll still use matplotlib for simple plotting, and you’ll need a knowledge of matplotlib to tweak Seaborn’s default plots [@fa18-523-85-seaborn].   
+Seaborn is a Python visualization library for statistical plotting. It comes equipped with preset styles and color palettes so you can create complex, aesthetically pleasing charts with a few lines of code. It is designed to work with NumPy and pandas data structures and to support statistical tasks completed in SciPy and statsmodels. Seaborn is built on top of Python's core visualization library matplotlib, but it's meant to serve as a complement, not a replacement. In most cases, you will still use matplotlib for simple plotting, and you'll need a knowledge of matplotlib to tweak Seaborn's default plots [@fa18-523-85-seaborn].   
 
 
 
@@ -127,7 +127,7 @@ The males also have contributed more than the females, about three times to the 
 
 ![fa18-523-85-07-age-gender](images/fa18-523-85-07-age-gender.png){#fig:fa18-523-85-07-age-gender}   
 
-According to the figure, it is obvious that the young people group, especially the young males group, are the main contributors to the sales. Most of them are single or married a few years ago. So they do not have a big burden as other age groups do. They cost of education, the payment of the house, the savings for retirement, these factors are less considered by them. "Men Buy, Women Shop." is a rule that Verde Group found in the research of men and women’s behavior of consuming.   
+According to the figure, it is obvious that the young people group, especially the young males group, are the main contributors to the sales. Most of them are single or married a few years ago. So they do not have a big burden as other age groups do. They cost of education, the payment of the house, the savings for retirement, these factors are less considered by them. "Men Buy, Women Shop." is a rule that Verde Group found in the research of men and women's behavior of consuming.   
 
 ![fa18-523-85-08-age-mixedgender](images/fa18-523-85-08-age-mixedgender.png){#fig:fa18-523-85-08-age-mixedgender}
 
