@@ -11,10 +11,10 @@ Data columns (total 12 columns): User_ID: 537577 non-null int64, Product_ID: 537
 
 * Prequisites: Max OS 10.13.6 or higher
 * Python 3.7
-* Packages:Numpy, Pandas, Matplotlib.pyplot, Seaborn
+* Packages: Numpy, Pandas, Matplotlib.pyplot, Seaborn
 
 ### Installation
 
-'''
+```
 pip install numpy
-'''
+```
