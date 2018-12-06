@@ -129,50 +129,50 @@ The males also have contributed more than the females, about three times to the 
 
 According to the figure, it is obvious that the young people group, especially the young males group, are the main contributors to the sales. Most of them are single or married a few years ago. So they do not have a big burden as other age groups do. They cost of education, the payment of the house, the savings for retirement, these factors are less considered by them. “Men Buy, Women Shop.” is a rule that Verde Group found in the research of men and women’s behavior of consuming.   
 
-# fig8
+![fa18-523-85-08-age-mixedgender](images/fa18-523-85-08-age-mixedgender.png){#fig:fa18-523-85-08-age-mixedgender}
 
 Females are easy to interact with salesman since they are willing to hear some positive feedbacks. But men are more likely to consider other issues such as is there a position for his car, or is the wanted product in stock. In some domains, women invest more than men, such as time, emotions. For men, they are more likely to have a specific plan, once they achieve their goals, they are going to leave the store. Although women have a heavier burden on work, women are stilling playing a role to take care of others. The responsibility of this will help women to have a sharp awareness of shopping and a higher expectation. On the other hand, women have taken the task of shopping for the home for several generations, men could hardly find the fun in shopping.   
 
-# fig9   
+![fa18-523-85-09-age-purchage](images/fa18-523-85-09-age-purchage.png){#fig:fa18-523-85-09-age-purchage}   
 
 The behavior of shopping has reflected a lot of differences between male and female. Women are more likely to see shopping as part of their networking since they will get enough topics and materials about the products when talking about other women. In contrast, men are more likely to treat shopping as a task, once they have finished their task, they think they have done with this task and will not stay in the store.   
 
 
 ### Data Analysis and Data Visualization   
 
-# fig10   
+![fa18-523-85-10-city](images/fa18-523-85-10-city.png){#fig:fa18-523-85-10-city}   
 
 The customers in this dataset are mostly distributed in three main cities. B city has more users than A and C. There are a lot of factors to effect this, such as the city is an industrial city or not, the city has a local big retailer or not. For the big city, people have a higher level of income, so they consume the most. For the subarea, the people usually have some reason to live far from downtown, part of the reason is the price of land and house, so they have a weaker purchase power than the group lives in the big city. Last but not least, the people who live in the countryside have the lowest purchase power.   
 
-# fig11   
+![fa18-523-85-11-city-purchase](images/fa18-523-85-11-city-purchase.png){#fig:fa18-523-85-11-city-purchase}   
 
 Surprisingly, C city has the highest sales among the three cities. Although C city does not have the biggest customer group. This may attribute to the features of the customer group in C city. Due to the low purchase and the inconvenience they need to face when planning to go shopping, they have less time and money to invest in shopping. For the group that not live in the downtown, the time and money cost should be considered as a significant factor. In other cases, someone chooses to get the product by mail, which is also a factor that contributes to the lower purchase power of this group. Since they are not able to select and try the product by themselves, they are not willing to take the risk to pay for the mail charge. The group lives in the city is easy to get access to the product and they can get enough information form the salesman, it easy to make the deal since the service will push the deal.   
 
-# fig12   
+![fa18-523-85-12-city-age](images/fa18-523-85-12-city-age.png){#fig:fa18-523-85-12-city-age}   
 
 In each city, the young group after graduation is the main contributor to the sales. As we mentioned before, they are more likely to be single, which means they have less pressure to save money for future use. There are several factors which can affect the sale converting ratio. The most important three are price, transportation, and discount. Part of the online shoppers will accept the suggestions from social media. And nearly half of them will listen to their family members or friends. Some of them are driven by the advertisements. Most of the customers are eager to see the product by themselves, especially for online shoppers. So the comments from the previous buyers will play a significant role in the process of deciding whether to buy the things or not.   
 
-# fig13   
+![fa18-523-85-13-stay-purchase-bar](images/fa18-523-85-13-stay-purchase-bar.png){#fig:fa18-523-85-13-stay-purchase-bar}   
 
 According to this figure, the people who stay in the city for one year have contributed the most part of the sales. Since they have settled down to the city, rather than those who have not to stay in the same city for one year, they have the need to buy things. On the other hand, they have adapted to the environment in the city, so they are more likely to pursue some higher level things.   
 
-# fig14   
+![fa18-523-85-14-stay](images/fa18-523-85-14-stay.png){#fig:fa18-523-85-14-stay}   
 
 The first year users in the specific city are the majority of the group. The other kinds of the group are similar in size. The females are enjoying the process of shopping, so they are tending to spend more time to compare different products from different retailers. The discount will lead to the final purchase since they are sensitive to the prices of different products. More than half of the customers will give up the purchase due to the cost of delivery, which should be a key point to improve the sales.   
 
-# fig15   
+![fa18-523-85-15-product-mixed](images/fa18-523-85-15-product-mixed.png){#fig:fa18-523-85-15-product-mixed}   
 
 To have a better understanding of the gender and product, we use the marital status to divide the customer and conduct across analysis with a product. In each age group, it is the single male group that consumes a lot than other groups. The single female group contributes more than the married female group. A possible solution is to include the cost of delivery into the price of the product. On one hand, when customers see the price of the product at the first time, the anchor effect will leave them an impression of the price, so the additional fee of delivery will push them to give up the purchase. Showing the whole price at the first time will be a better choice. On the other hand, to serve the customers, the company can establish a stable relationship with those companies, which means a lower delivery price for every customer.   
 
-# fig16   
+![fa18-523-85-16-product1-bar](images/fa18-523-85-16-product1-bar.png){#fig:fa18-523-85-16-product1-bar}   
 
 For the first product category, although the top three items have occupied more than half of the sales, it is still more diverse than the second product category. For sales, customer behavior is a key role to care about. The process of decision making is worth to be researched. When people have the plan to consume, there are often two ways to make the decision, high indecision and low in a decision [Big Data and Predictive Business Analytics]. Entering is the time and money they want to invest in the purchase when the strategy has already been decided. There are a lot of factors to affect the entering way, such as the price of the product, the value of the product.   
 
-# fig17   
+![fa18-523-85-17-product2-bar](images/fa18-523-85-17-product2-bar.png){#fig:fa18-523-85-17-product2-bar}   
 
 In the second product category, the top one item has occupied most of the sales, which means a single product consists the majority of the revenue. Due to the centralized profit, the economy of the city may have a greater risk than the other two cities. The product category is also one of them. Once the consumer wants to buy a gift for his father, he will spend a lot of time and money on this purchase. As a result, he has a strong tendency to make the deal, and then finish the purchase with an acceptable price. That is an example of high entering. In contrast, for the low entering consumers, they are not going to consider a lot of factors before making the decision, so the band and the preference will affect a lot [Essentials of marketing research].   
 
-# fig18   
+![fa18-523-85-18-product3-bar](images/fa18-523-85-18-product3-bar.png){#fig:fa18-523-85-18-product3-bar}   
 
 The third product category is similar to the first one, which has more diversity than the second one. Multiple products make up the whole revenue means a diversity in risks. The managers can use a hint to affect the process of making decisions. By endless advertising, they can stimulate the interest of consumers. To make this works, the managers need to find the potential needs of the consumers and convert them to the actual needs. There are two kinds of needs, psychological need and functional need when the manager is able to combine them, he will be successful since the product will meet the expectation of the consumers [Governing big data: principles and practices]. For the searching of the information, there are two kinds of storage environments for information. The internal environment contains the previous information, such as the product category in their mind. The external environment contains comments from other uses, differences of a price.    
 
