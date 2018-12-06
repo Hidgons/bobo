@@ -109,6 +109,8 @@ To the part with high importance and low missing rate, we give some values to th
 
 # fig3   
 
+#### Delete unreasonable value   
+It is very common to find some strange value in the dataset. Such as a very big age more than 200. These extreme values will have a negative impact on the result since the features of the dataset will be partly represented by some extreme values.   
 
 
 
