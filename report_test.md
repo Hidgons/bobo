@@ -113,21 +113,83 @@ To the part with high importance and low missing rate, we give some values to th
 It is very common to find some strange value in the dataset. Such as a very big age more than 200. These extreme values will have a negative impact on the result since the features of the dataset will be partly represented by some extreme values.   
 
 
-
-
-
-
 ### Data Exploration and Processing   
+
+# fig4   
+
+In the gender analysis, we can easily find that there are more males than females. The males have contributed more than the female. The result is also linked by the products classes, since females have some specific domains to focus on. And the males also have their own preferences.   
+
+# fig5   
+Generally speaking, females are easily to finish the action of purchase even the product is useless to them. Purchasing was an action to meet the need of living, now it has evolved as an action of entertainment. Most of the females have the tendency of purchasing, but they have different of degrees about that. Comparing with males, females is less rational in the process. They are easily to be affected by others, which is also a proof of their lack of rationality. On the other hand, females are sensitive to the details of products. Standing by this point, it is hard to make profits on females. So if the designer is able to care more about the details of the products, the products will be more attractive to customers.   
+
+# fig6   
+The males also have contributed more than the females, about three times to the sales of females. There are some reasons to explain this. Since females are easily to consume without lots considerations they are often consuming on cheaper things such as thing for daily use.   
+
+# fig7   
+
+According to the figure, it is obvious that the young people group, especially the young males group, are the main contributors to the sales. Most of them are single or married a few years ago. So they do not have a big burden as other age groups do. They cost of education, the payment of the house, the savings for retirement, these factors are less considered by them. “Men Buy, Women Shop.” is a rule that Verde Group found in the research of men and women’s behavior of consuming.   
+
+# fig8
+
+Females are easily to interact with salesman since they are willing to hear some positive feedbacks. But men are more likely to consider other issues such as is there a position for his car, or is the wanted product in stock. In some domains, women invest more than men, such as time, emotions. For men, they are more likely to have a specific plan, once they achieve their goals, they are going to leave the store. Although women have a heavier burden on work, women are stilling playing a role to take care of others. The responsibility of this will help women to have a sharp awareness of shopping and a higher expectation. On the other hand, women have take the task of shopping for the home for several generations, men could hardly find the fun in shopping.   
+
+# fig9   
+
+The behavior of shopping has reflected a lot of differences between male and female. Women are more likely to see shopping as part of their networking, since they will get enough topics and materials about the products when talking about other women. In contrast, men are more likely to treat shopping as a task, once they have finished their task, they think they have done with this task and will not stay in the store.   
+
 
 ### Data Analysis and Data Visualization   
 
+# fig10   
+
+The customers in this dataset are mostly distributed in three main cities. B city has more users than A and C. There are a lot of factors to effect this, such as the city is a industrial city or not, the city has a local big retailer or not. For the big city, people have a higher level of income, so they consume the most. For the subarea, the people usually have some reason to live far from downtown, part of the reason is the price of land and house, so they have a weaker purchase power than the group lives in the big city. Last but not least, the people who live in the countryside have the lowest purchase power.   
+
+# fig11   
+
+Surprisingly, C city has the highest sales among the three cities. Although C city does not have the biggest customer group. This may attribute to the features of the customer group in C city. Due to the low purchase and the inconvenience they need to face when planning to go shopping, they have less time and money to invest in shopping. For the group that not live in the downtown, the time and money cost should be considered as a significant factor. In other cases, someone choose to get the product by mail, which is also a factor that contributes to the lower purchase power of this group. Since they are not able to select and try the product by themselves, they are not willing to take the risk to pay for the mail charge. The group lives in the city is easy to get access to the product and they can get enough information form the salesman, it it easy to make the deal since the service will push the deal.   
+
+# fig12   
+
+In each city, the young group after graduation is the main contributor to the sales. As we mentioned before, they are more likely to be single, which means they have less pressure to save money for future use. There are several factors which can effect the sale converting ratio. The most important three are price, transportation and discount. Part of the online shoppers will accept the suggestions from the social media. And nearly half of them will listen to their family members or friends. Some of them are driven by the advertisements. Most of the customers are eager to see the product by themselves, especially for the online shoppers. So the comments from the previous buyers will play a significant role in the process of deciding whether to buy the things or not.   
+
+# fig13   
+
+According to this figure, the people who stay in the city for one year have contributed the most part of the sales. Since they have settle down to the city, rather than those who have not stay in the same city for one year, they have the need to buy things. On the other hand, they have adapted to the environment in the city, so they are more likely to pursue some higher level things.   
+
+# fig14   
+
+The first year users in the specific city is the majority of the group. The other kinds of group are similar in size. The females are enjoying the process of the shopping, so they are tending to spend more time to compare different products from different retailers. The discount will lead to the final purchase since they are sensitive to the prices of different products. More than half of the customers will give up the purchase due to the cost of delivery, which should be a key point to improve the sales.   
+
+# fig15   
+
+To have a better understanding of the gender and product, we use the marital status to divide the customer and conduct a cross analysis with product. In each age group, it is the single male group that consume a lot than other groups. The single female group contributes more than the married female group. A possible solution is to include the cost of delivery into the price of the product. On one hand, when customers see the price of the product at the first time, the anchor effect will leave them an impression of the price, so the additional fee of delivery will push them to give up the purchase. Showing the whole price at the first time will be a better choice. On the other hand, to serve the customers, the company can establish a stable relationship with those companies, which means a lower delivery price for every customer.   
+
+# fig16   
+
+For the first product category, although the top three items have occupied more than half of the sales, it it still more diverse than the second product category. For sales, the customer behavior is a key role to care about. The process of the decision making is worth to be researched. When people have the plan to consume, there are often two ways to make the decision, high in decision and low in decision [Big Data and Predictive Business Analytics]. Entering is the time and money they want to invest in the purchase when the strategy has already been decided. There are a lot of factors to effect the entering way, such as the price of the product, the value of the product.   
+
+# fig17   
+
+In the second product category, the top one item has occupied most of the sales, which means a single product consists the majority of the revenue. Due to the centralized profit, the economy of the city may have greater risk than the other two cities. The product category is also one of them. Once the consumer wants to bur a gift for his father, he will spend a lot of time and money of this purchase. As a result, he has a strong tendency to make the deal, and then finish the purchase with an acceptable price. That is a example for high entering. In contrast, for the low entering consumers, they are not going to consider a lot of factors before making the decision, so the band and the preference will effect a lot [Essentials of marketing research].   
+
+# fig18   
+
+The third product category is similar to the first one, which has more diversity than the second one. Multiple products make up the whole revenue means a diversity in risks. The managers can use hint to effect the process of making decisions. By endless advertising, they can stimulate the interest of consumers. To make this works, the managers need to find the potential needs of the consumers, and convert them to the actual needs. There are two kinds of needs, psychological need and functional need, when the manager is able to combine them, he will be successful since the product will meet the expectation of the consumers [Governing big data: principles and practices]. For the searching of the information, there are two kinds of storage environments for information. Internal environment contains the previous information, such as the product category in their mind. External environment contains comments from other uses, differences of price.    
 
 
-## Benchmark
 
 ## Conclusion
 
-The conclusion drawn by the previous analytics, which could be the picture of owned consumers, the predict of the consumer’s preferences.
+In the analysis, we have found that the big data analysis can mine a lot information behind the dataset. By using the big data technologies, we are able to establish the strategy for business. Such as set a specific strategy for the young group of the consumers [Using ‘Big Data’ for analytics and decision support]. Also, we are able to make the whole target more clear, especially the blueprint of data, technology, operating. According to the blueprint, we can breakdown the steps for conducting, which could lead to the practice of big data strategy.
+> “For effective marketing, it is essential to identify a specific group of customers who share similar preferences and respond to a specific marketing signal. Customer segmentation applications can help identify different communities (segments) of customers who may share similar interests” [Demystifying Big Data Analytics for Business Intelligence Through the Lens of Marketing Mix].
+
+The blueprint of application could help the managers to recognize the value point of big data in two aspects, business model innovation and business value chain. Based on the big data, we can combine the Internet to conduct the strategy [Digital loyalty card ‘big data’ and small business marketing: Formal versus informal or complementary?]. Standing in a higher level, we could design the strategy by considering all the factors. To conduct the strategy on business value chain, we need to analyze the applications in different scenarios. Use big data in the product design step to catch the needs of consumers, use big data in the product produce process to improve the quality of the product, use big data in the sales process to send the information of the product to the targeted group.   
+
+> “Finally, retail managers learn very early in their management training programs that the bottom line for most decisions in retailing is sales” [Atmospheric Effects on Shopping Behavior: A Review of the Experimental Evidence].   
+
+The data blueprint could help us to establish the framework and specify the data collection standards. The framework of big data is supported by the classification of the data, which contains basic data of the business, behavior data and the picture data of customers [Data-intensive applications, challenges, techniques and technologies: A survey on Big Data]. To make the data source clear, we need to divide them to different kinds, internal data from the company, data from the product chain, data from the upper or lower companies and social data. If we can use the technologies in an appropriate way, big data will save us a lot of time [Big Data in Big Companies]. Considering the needs of the company and the tendency, we need to compare different main technologies, from different perspectives. Hardware platform, data storage and management, calculation, data analysis, data visualization and data safety. Comparing with their advantages and disadvantages, then make the choice of the technology. To help the company establish an effective and durable management system, it is necessary to collect the data in the process stream.   
+
+
 
 
 
