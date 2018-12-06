@@ -15,6 +15,19 @@ Data columns (total 12 columns): User_ID: 537577 non-null int64, Product_ID: 537
 
 ### Installation
 
+#### To install Numpy
 ```
-pip install numpy
+pip install Numpy
+```
+#### To install Pandas
+```
+pip install Pandas
+```
+#### To install Matplotlib.pyplot
+```
+pip install Matplotlib.pyplot
+```
+#### To install Seaborn
+```
+pip install Seaborn
 ```
