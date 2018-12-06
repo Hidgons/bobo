@@ -31,3 +31,7 @@ pip install Matplotlib.pyplot
 ```
 pip install Seaborn
 ```
+
+## Run the code
+
+Run sale_analysis.py
