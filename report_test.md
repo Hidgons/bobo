@@ -102,7 +102,7 @@ There are two things need to be done in this step. It is recommended to use the 
 #### Null test   
 The missing value is a common problem of the data analysis, and there are a lot of ways to deal with this problem. We often do this job in four steps. Locate the range of the missing values. In order to distinguish different variables with different importance, we calculate the missing percentage of each part of the dataset. According to the result of the calculation, we use different strategies to deal with those missing values.   
 
-# fig1   
+![fa18-523-85-01-null-test.png](images/fa18-523-85-01-null-test.png){#fig:fa18-523-85-01-null-test.png}  
 # fig2   
 
 To the part with high importance and low missing rate, we give some values to the missing part by calculating. In some cases, we also use our experience to make up the missing part. To the part with high importance and high missing rate, we will try to fix the problem by finding other data sources. In some troublesome cases, we even delete the whole part of the dataset and claim the action in the result. To the part with low importance and low missing rate, we can care other things or estimate the missing value by some simple calculations. To the part of low importance and high missing rate, we choose to delete the whole part since it can not have a significant impact on the result of the analysis.   
